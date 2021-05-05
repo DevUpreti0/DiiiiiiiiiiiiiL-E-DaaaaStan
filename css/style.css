@@ -1,4 +1,9 @@
-
+.text-gray-600{
+	background-color: #2a2932;
+}
+.textimgk{
+	width: 150px;
+}
 
   .sm a{
 	display: inline-block;
